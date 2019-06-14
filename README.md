@@ -154,3 +154,5 @@ The options outlined above are not the only options available to you to deploy t
 ## License
 
 Licensed under MIT License. See [LICENSE.md](LICENSE.md) for more.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de812ed9-aadd-4d65-8307-cdb8688dd68d/deploy-status)](https://app.netlify.com/sites/focused-borg-15cb02/deploys)
